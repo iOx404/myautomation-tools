@@ -1,7 +1,7 @@
 <pre>
 # This is my practice sets of automation tools 
 <br>
-<b>author-b0tx404 a.k.a Deepak Maurya</b>
+<b>author-iOx404 a.k.a Deepak Maurya</b>
 <br>
 # Upcoming days i'm making much useful automated tools which is helpful to do work fast and efficent way
 <br>
